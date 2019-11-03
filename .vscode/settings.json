@@ -1,0 +1,27 @@
+{
+    "breadcrumbs.enabled": true,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.codeLens": true,
+    "editor.lineNumbers": "on",
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    "editor.fontFamily": "Fira Code Retina",
+    "editor.fontSize": 15,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.fontLigatures": true,
+    "workbench.editor.tabSizing": "fit",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "path-intellisense.extensionOnImport": true,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    },
+    "workbench.editor.highlightModifiedTabs": true,
+    "explorer.sortOrder": "type",
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "smooth",
+    "files.trimFinalNewlines": false,
+    "workbench.editor.showTabs": true,
+}
